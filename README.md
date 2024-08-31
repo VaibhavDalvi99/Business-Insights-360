@@ -10,3 +10,4 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 - Marketing View: Analytics to enhance marketing strategy.
 - Supply Chain View: Optimization metrics for efficient supply chain management.
 - Executive View: Metrics critical for top-level decision-makers.
+
