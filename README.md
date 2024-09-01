@@ -18,8 +18,11 @@ Business Insights 360 is a comprehensive Power BI dashboard designed to empower 
 - Performance Optimization: Achieved a 5% increase in report efficiency.
 
 ## Data Sources
--The dashboard seamlessly collects and utilizes data from two primary sources:
+- The dashboard seamlessly collects and utilizes data from two primary sources:
 
 1. Excel/CSV Files: Targets, Market Share data, and related information are sourced from Excel/CSV files.
 
 2. MySQL Database: Facts and Dimensions for all departments are retrieved from a MySQL database.
+
+## Acknowledgments
+- Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
